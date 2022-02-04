@@ -11,3 +11,8 @@ public class TaskmanagerApplication {
     }
 
 }
+
+// uml, diagram systemovy kontext, use case, technicky komponent model
+// SOLID principles
+// pridanie vlastnej funkcionality, rozmyslaj ako spravit (bez rozsirenie executora rozhrania)
+// pozri open source projekty s plugins
